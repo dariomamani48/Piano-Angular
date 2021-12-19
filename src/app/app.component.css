@@ -1,0 +1,12 @@
+.list-group-item{
+    height: 50px;
+    width: 60vw;
+    text-align: center;
+    cursor: pointer;
+}
+.list-group{
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
